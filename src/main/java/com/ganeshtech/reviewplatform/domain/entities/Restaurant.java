@@ -19,7 +19,7 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Restarent {
+public class Restaurant {
 
     @Id
     private String id;
